@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["BitGeneratorKind"],"struct":["BitGenerator","PyBitGenerator"],"trait":["PyBitGeneratorMethods"]};
